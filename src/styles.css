@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Comforta&display=swap");
+
+.App {
+  font-family: "Comforta", cursive, sans-serif;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #10454b;
+}
+h1,
+h2,
+h3 {
+  color: #fff;
+}
+.App input {
+  padding: 0.5rem;
+  width: 50%;
+  border-style: none;
+  box-shadow: 0 0 11px #ffaf20;
+  border-radius: 20px;
+}
